@@ -5,14 +5,7 @@ on a1.machine_id = a2.machine_id and a1.process_id = a2.process_id and a1.activi
 group by a1.machine_id
 
 
-
-
-
-
-
-
-
-
+----------------------------------------------------------------------------------
 
 Exaplaination:
 
